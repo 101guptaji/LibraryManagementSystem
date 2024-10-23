@@ -1,4 +1,4 @@
-Library Management System
+# Library Management System
 It is a simple Library Management System that provides members with a window to issue a book or return an issued book.
 On login, member is directed to main window which has 2 options:
 1. Book Issue
